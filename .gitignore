@@ -6,3 +6,4 @@ node_modules/
 
 # others app folders
 build
+/package-lock.json
